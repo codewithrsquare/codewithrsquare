@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is me Ritu Raj
-
+<a href="https://app.daily.dev/irituraj"><img src="https://api.daily.dev/devcards/485823e4520d4a1098943e9c1f533013.png?r=ww2" width="400" alt="Ritu Raj's Dev Card"/></a>
 <!--
 **codewithrsquare/codewithrsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
